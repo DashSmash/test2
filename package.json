@@ -1,0 +1,23 @@
+{
+  "name": "test2-proj",
+  "version": "1.0.0",
+  "description": "test2 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashSmash/test2.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "Rishat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DashSmash/test2/issues"
+  },
+  "homepage": "https://github.com/DashSmash/test2#readme"
+}
