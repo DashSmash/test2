@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DashSmash/test2/issues"
   },
-  "homepage": "https://github.com/DashSmash/test2#readme"
+  "homepage": "https://github.com/DashSmash/test2#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
